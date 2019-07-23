@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	3주밖에 안남았음~
+	3주밖에 안남았음~ 빨리 와라~!
 </body>
 </html>
